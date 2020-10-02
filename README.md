@@ -64,4 +64,5 @@
 
 [5] "What are Haar Features used in Face Detection ?". Darshan Adakane, 2019, https://medium.com/analytics-vidhya/what-is-haar-features-used-in-face-detection-a7e531c8332b.
 
-[6][7] "Face Recognition: Understanding LBPH Algorithm". Kelvin Shttps://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
+[6][7] "Face Recognition: Understanding LBPH Algorithm". Kelvin Salton do Prado
+. https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
