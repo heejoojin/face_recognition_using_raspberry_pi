@@ -5,6 +5,7 @@
 
 ## Haar Features
 <img src="https://docs.opencv.org/3.4/haar_features.jpg" alt="" width="200"/> [1]
+
 <img src="haar_features_youtube.png" alt="" width="600"/> [2]
 
 
