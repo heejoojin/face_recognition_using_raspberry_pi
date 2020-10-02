@@ -1,5 +1,5 @@
-# Real-Time Face Recognition 
-## Using Raspberry Pi implementing Haar Cascades classifier and LBPH
+# Real-Time Face Recognition Using Raspberry Pi
+## Implementing Haar Cascades classifier and LBPH
 
 <img src="face_recognition.gif" alt=""/>
 
