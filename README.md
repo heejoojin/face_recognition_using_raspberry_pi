@@ -8,6 +8,8 @@
 
 <img src="haar_features_youtube.png" alt="" width="600"/> [2]
 
+- They detect edge, line, center-surrounded, special diagonal line features
+
 
 ## Integral Image
 <img src="integral_image.png" alt="" height="200"/> [3]
