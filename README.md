@@ -1,5 +1,5 @@
 # Real-Time Face Recognition using Raspberry Pi, OpenCV, Python - Implementing Haar Cascades classifier and LBPH
-<img src="face_recognition.gif" alt="" height="500"/> [3]
+<img src="face_recognition.gif" alt="" height="300"/> [3]
 
 ## Haar Features
 <img src="https://docs.opencv.org/3.4/haar_features.jpg" alt="" width="200"/> [1]
@@ -24,7 +24,7 @@
 - It helps in the stages of Face Detection and Feature Extraction.
 
 ## Local Binary Patterns Histograms Face Recognizer (LBPH)
-<img src="https://miro.medium.com/max/1334/1*J16_DKuSrnAH3WDdqwKeNA.png" alt="" width="600"/> [6]
+<img src="https://miro.medium.com/max/1334/1*J16_DKuSrnAH3WDdqwKeNA.png" alt="" width="400"/> [6]
 
 - It works by looking at every single point of the image.
   - It compares central value of the selected region (pixel value) with its neighboring values.
