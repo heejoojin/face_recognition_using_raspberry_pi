@@ -1,5 +1,4 @@
-# Real-Time Face Recognition using Raspberry Pi, OpenCV, Python
-## Implementing Haar Cascades classifier and LBPH
+# Real-Time Face Recognition using Raspberry Pi, OpenCV, Python </br> Implementing Haar Cascades classifier and LBPH
 <img src="face_recognition.gif" alt="" height="300"/>
 
 ## Haar Features
